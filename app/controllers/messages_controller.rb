@@ -8,6 +8,7 @@ class MessagesController < ApplicationController
   end
 
   def destroy
+
   end
 
   def create
